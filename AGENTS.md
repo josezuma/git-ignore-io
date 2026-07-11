@@ -1,3 +1,7 @@
 # git-ignore-io
 
-Generate .gitignore from gitignore.io API. CLI with search and multiple language support.
+CLI tool for git ignore io.
+
+## For AI agents
+- Run `python3 scripts/cli.py --help`
+- Use `--json` flag for machine-readable output
