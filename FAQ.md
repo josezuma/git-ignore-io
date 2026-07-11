@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is git-ignore-io?
-A CLI tool for git ignore io.
+Git Ignore Io
 
 ## Dependencies?
 Python stdlib only.
